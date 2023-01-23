@@ -1,1 +1,2 @@
 # backgroung-generator
+Описание проекта
